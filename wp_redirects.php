@@ -7,7 +7,7 @@
 Plugin Name: wp_redirects
 Description: The plugin allows you to add redirects without clogging htaccess.
 Author: Korolev Eduard
-Version: 1.0
+Version: 1.1
 */
 
 
